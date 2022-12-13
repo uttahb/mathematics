@@ -1,0 +1,8 @@
+{
+  "name": "mathematics",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/uttahb/mathematics",
+    "ssh": "git@github.com:uttahb/mathematics.git"
+  }
+}
